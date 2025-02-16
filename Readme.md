@@ -12,7 +12,7 @@ This project is a **Password Strength Checker** that provides real-time feedback
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/yourusername/password-checker.git
+git clone https://github.com/Jikku345/password-checker.git
 cd password-checker
 ```
 
